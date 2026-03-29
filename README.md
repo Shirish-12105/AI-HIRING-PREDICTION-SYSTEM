@@ -160,8 +160,7 @@ Multiple models were trained and compared. Random Forest performed best due to i
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
+**SHIRISH.B**
 - LinkedIn:www.linkedin.com/in/shirish-b-820a02389
 
 ---
